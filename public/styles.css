@@ -1,0 +1,28 @@
+body{
+    padding-left: 2rem;
+    padding-top: 2rem;
+
+    background-color: #85FFBD;
+background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+
+
+    
+    
+
+        /* background: linear-gradient( to right, #bdc3c7 → #2c3e50 ); */
+}
+
+ul{
+    list-style-type: none;
+    font-size: 1.5rem;
+    color: rgb(21, 92, 223);
+}
+
+/* background: linear-gradient(
+        to right,
+        #D1F2EB 0%,
+        #D1F2EB 50%,
+        yellow 50%,
+        yellow 100%); */
+
+        
